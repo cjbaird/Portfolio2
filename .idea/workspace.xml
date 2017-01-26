@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb64b75e-209e-4b98-b011-122dce209fe8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fieldwork/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projects/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/ES.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Family.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Grace.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Hillary.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Info1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Info2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Kenmar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Trump.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/big_house.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/golf.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/google.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/sports.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/thistle.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/volvik.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/index.html" afterPath="$PROJECT_DIR$/portfolio/index.html" />
     </list>
     <ignored path="Portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,8 +50,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/portfolio/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="80" column="26" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
+            <state relative-caret-position="195">
+              <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -95,8 +76,8 @@
         <option value="$PROJECT_DIR$/Fieldwork/index.html" />
         <option value="$PROJECT_DIR$/Projects/index.html" />
         <option value="$PROJECT_DIR$/portfolio/Projects/index.html" />
-        <option value="$PROJECT_DIR$/portfolio/index.html" />
         <option value="$PROJECT_DIR$/portfolio/Fieldwork/index.html" />
+        <option value="$PROJECT_DIR$/portfolio/index.html" />
       </list>
     </option>
   </component>
@@ -504,14 +485,6 @@
     <entry file="file://$PROJECT_DIR$/Projects/index.html" />
     <entry file="file://$PROJECT_DIR$/Fieldwork/index.html" />
     <entry file="file://$PROJECT_DIR$/static/style.css" />
-    <entry file="file://$PROJECT_DIR$/portfolio/Fieldwork/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="50" column="69" selection-start-line="50" selection-start-column="69" selection-end-line="50" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/Projects/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -520,10 +493,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/Fieldwork/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="50" column="69" selection-start-line="50" selection-start-column="69" selection-end-line="50" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="80" column="26" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
+        <state relative-caret-position="195">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
           <folding />
         </state>
       </provider>
